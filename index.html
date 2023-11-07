@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Gjett tallet!</title>
+  </head>
+  <body>
+    <header>
+      <h1>Gjett tallet!</h1>
+      <p class="between">(Mellom 1 og 20)</p>
+      <button class="btn again">Prøv igjen!</button>
+      <div class="number">?</div>
+    </header>
+    <main>
+      <section class="left">
+        <input type="number" class="guess" />
+        <button class="btn check">Sjekk!</button>
+      </section>
+      <section class="right">
+        <p class="message">Gjett et tall...</p>
+        <p class="label-score">
+          💯 Gjenværende trekk: <span class="score">10</span>
+        </p>
+        <p class="label-highscore">
+          🥇 Beste: <span class="highscore">0</span>
+        </p>
+      </section>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
