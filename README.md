@@ -3,5 +3,4 @@ Simpelt spill skrevet i JavaScript hvor du skal gjette deg frem til riktig tall.
 
 Link til Github Page: https://mgoberg.github.io/GjettTallet/
 
-## Feedback
-Hvis du har noe feedback, send en epost til martingoberg@gmail.com
+Kurs av [Jonas Schmedtmann](https://www.youtube.com/@jonasschmedtmann).
